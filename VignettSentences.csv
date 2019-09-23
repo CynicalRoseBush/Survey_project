@@ -1,0 +1,97 @@
+﻿questionText,VinNum,VinType
+You told a great joke and everyone is laughing.,1,positive self
+You gave the wrong answer and everyone is laughing.,2,negative self
+She gave a witty reply and everyone is laughing.,3,positive other
+She tripped in front of the class and everyone is laughing.,4,negative other
+She gave you a big hug goodbye and she walked away quickly,5,positive self
+You said sometihg that really irritated her and she walked away quickly,6,negative self
+He wished her safe travels and she walked away quickly,7,positive other
+He said something rude to her and she walked away quickly,8,negative other
+The group wanted to hear more about your idea so they all went completely silent,9,positive self
+The group thought your presentation was horrible so they all went completely silent,10,negative self
+Her speech really compelled the audience and they all went completely silent,11,positive other
+She said something really awkward to the group and they all went completely silent,12,negative other
+He wanted to give you a thoughtful response so he took a long time to text back,13,positive self
+He was angry with you so he took a long time to text back,14,negative self
+He was writing something special so he took a long time to text back,15,positive other
+He wanted her to feel ignored so he took a long time to text back,16,negative other
+She has exciting news to share with you so she asks to be called as soon as possible,17,positive self
+She is mad about something you said so she asks to be called as soon as possible,18,negative self
+She wants to invite him to a party that night so she asks to be called as soon as possible,19,positive other
+She wants to break up with him so she asks to be called as soon as possible,20,negative other
+He was so excited about your good news that he shared the secret with everyone,21,positive self
+He wanted to get revenge on you so he shared the secret with everyone,22,negative self
+She was being too modest about her promotion so he shared the secret with everyone,23,positive other
+He wanted to embarrass her so he shared the secret with everyone,24,negative other
+Your friends are planning you a surprise party and they are huddled as a group whispering,25,positive self
+Your friends are avoiding you on purpose so they are huddled as a group whispering,26,negative self
+The committee was deciding to hire him and they are huddled as a group whispering,27,positive other
+The group was saying mean things about him and they are huddled as a group whispering,28,negative other
+They wanted to listen to what you were saying so everyone stopped talking ,29,positive self
+They were gossiping about you when you walked by so everyone stopped talking,30,negative self
+The group was impressed by what she said so everyone stopped talking,31,positive other
+She yelled at him loudly and everyone stopped talking,32,negative other
+They were really happy to see you so they smiled ,33,positive self
+Thy heard you were in trouble so they smiled ,34,negative self
+They were really proud of him so they smiled ,35,positive other
+They enjoyed watching him fail so they smiled ,36,negative other
+She thought you did a great job so she gave a compliment,37,positive self
+She felt sorry for you so she gave a compliment,38,negative self
+She wanted to encourage him so she gave a compliment,39,positive other
+She pitied him so she gave a compliment,40,negative other
+He wanted to be there for you so he offered to help ,41,positive self
+He thought you weren't capable so he offered to help,42,negative self
+He wanted to help his friend out so he offered to help ,43,positive other
+He thought his friend wasn't smart enough so he offered to help,44,negative other
+They thought your outfit was cool so they couldn't stop staring,45,positive self
+You had food stuck in your teeth and they couldn't stop staring,46,negative self
+He looked like somone they knew so they couldn't stop staring,47,positive other
+He was acting really weird so they couldn't stop staring,48,negative other
+You were giving a great presentation so everyone was paying a lot of attention,49,positive self
+You were stumbling through your speech and everyone was paying a lot of attention,50,negative self
+They were telling a funny story to the group and everyone was paying a lot of attention,51,positive other
+He blanked out while giving his presentation and everyone was paying a lot of attention,52,negative other
+You asked a clever question and he was eager to respond,53,positive self
+You told him why you were angry and he was eager to respond ,54,negative self
+They were talking about his favourite subject so he was eager to respond,55,positive other
+They said something he found offensive so he was eager to respond,56,negative other
+You were having a great conversation with her so she asked a lot of questions ,57,positive self
+She didn't trust you so she asked a lot of questions,58,negative self
+She was curious about him so she asked a lot of questions,59,positive other
+She was suspcious of him so she asked a lot of questions,60,negative other
+She was so happy to run in to you and she seemed surprised ,61,positive self
+The professor expected better work from you and she seemed surprised ,62,negative self
+She was excited he was in town and  she seemed surprised ,63,positive other
+She couldn't believe he said something so stupid and she seemed surprised ,64,negative other
+You said something witty so she chuckled to herself ,65,positive self
+You said somehting embarrassing so she chuckled to herself ,66,negative self
+She was happy to be talking to him so she chuckled to herself ,67,positive other
+He asked her out but she rejected him while she chuckled to herself ,68,negative other
+You won the game and the team was happy ,69,positive self
+You were kicked off the team and the team was happy,70,negative self
+He scored the winning goal so the team was happy,71,positive other
+His position was replaced by someone else and the team was happy,72,negative other
+He was telling you a secret so he was speaking very quietly,73,positive self
+He was talking behind your back so he was speaking very quietly,74,negative self
+He didn’t want to bother her so he was speaking very quietly ,75,positive other
+He was gossiping about her so he was speaking very quietly,76,negative other
+She was so excited about what you were saying that she interrupted mid-sentence,77,positive self
+She wasn't listening to you at all so she interrupted mid-sentence ,78,negative self
+She remembered she wanted to thank him so she interrupted mid-sentence,79,positive other
+She didn’t care about what he was saying so she interrupted mid-sentence ,80,negative other
+He wanted to give you his full attention so he shut the door,81,positive self
+He didn't want to talk to you anymore so he shut the door,82,negative self
+He wanted to listen to what she was saying so he shut the door,83,positive other
+He wanted her to leave him alone so he shut the door,84,negative other
+She was happy to greet you when she opened the door ,85,positive self
+She wanted you to leave immediately so she opened the door,86,negative self
+She greeted all the guests who arrived when she opened the door,87,positive other
+She was hinting for him to leave so she opened the door ,88,negative other
+She wanted to share a photo with you so she looked at her phone mid-conversation,89,positive self
+She isn't interested in what your saying so she looked at her phone mid-conversation,90,negative self
+"She wanted to ""like"" his photo so she looked at her phone mid-conversation",91,positive other
+She thought what he was saying was boring so she looked at her phone mid-conversation,92,negative other
+You brought up an inside joke with him and he rolled his eyes,93,positive self
+You said something he thought was foolish and he rolled his eyes,94,negative self
+She told a corny joke and he rolled his eyes,95,positive other
+He was really annoyed by her so he rolled his eyes,96,negative other
